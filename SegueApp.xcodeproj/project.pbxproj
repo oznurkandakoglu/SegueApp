@@ -16,6 +16,7 @@
 		0A44EDCD29E81A6600462926 /* SegueAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A44EDCC29E81A6600462926 /* SegueAppTests.swift */; };
 		0A44EDD729E81A6600462926 /* SegueAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A44EDD629E81A6600462926 /* SegueAppUITests.swift */; };
 		0A44EDD929E81A6600462926 /* SegueAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A44EDD829E81A6600462926 /* SegueAppUITestsLaunchTests.swift */; };
+		0A44EDE629E81B8800462926 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A44EDE529E81B8800462926 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0A44EDD229E81A6600462926 /* SegueAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SegueAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A44EDD629E81A6600462926 /* SegueAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueAppUITests.swift; sourceTree = "<group>"; };
 		0A44EDD829E81A6600462926 /* SegueAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0A44EDE529E81B8800462926 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0A44EDBE29E81A6600462926 /* Assets.xcassets */,
 				0A44EDC029E81A6600462926 /* LaunchScreen.storyboard */,
 				0A44EDC329E81A6600462926 /* Info.plist */,
+				0A44EDE529E81B8800462926 /* SecondViewController.swift */,
 			);
 			path = SegueApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A44EDE629E81B8800462926 /* SecondViewController.swift in Sources */,
 				0A44EDBA29E81A6600462926 /* ViewController.swift in Sources */,
 				0A44EDB629E81A6600462926 /* AppDelegate.swift in Sources */,
 				0A44EDB829E81A6600462926 /* SceneDelegate.swift in Sources */,
